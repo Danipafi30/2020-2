@@ -5,7 +5,7 @@ public class TI1{
         Scanner sc = new Scanner(System.in);
         int off = 0;
         do{
-            int option = 10;
+            int option = 0;
             System.out.println("MENU \n1. Exercise 1 (part 1)");//Basic Menu with options
             
             option = sc.nextInt();
